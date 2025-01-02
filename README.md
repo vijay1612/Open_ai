@@ -53,3 +53,5 @@ pydantic==2.10.0
 
 ## Conclusion
 By leveraging current market trends and advanced production technologies, the "Plugs for Crocs" business is positioned to succeed in a competitive market. Sustainability, customization, and creativity are key factors for its growth and profitability.
+#output screen shot
+![img]("output.png")
